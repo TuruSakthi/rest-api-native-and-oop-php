@@ -1,0 +1,11 @@
+{
+    "name": "turu-sakthi/rest-api-php",
+    "description": "Tutorial membuat REST API menggunakan PHP Native & OOP",
+    "type": "project",
+    "autoload": {
+        "psr-4": {
+            "App\\": "app"
+        }
+    },
+    "require": {}
+}
